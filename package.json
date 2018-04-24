@@ -1,0 +1,36 @@
+{
+  "name": "cryptonote-util",
+  "version": "0.0.1",
+  "main": "cryptonote",
+  "author": {
+    "name": "LucasJones",
+    "email": "lucasjonesdev@hotmail.co.uk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LucasJones/node-cryptonote-util.git"
+  },
+  "dependencies": {
+    "bindings": "*"
+  },
+  "keywords": [
+    "cryptonight",
+    "cryptonote"
+  ],
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "readme": "Node-Cryptonote-Util\n====================\n\nDependencies\n------------\n\n* Boost (http://www.boost.org/)",
+  "readmeFilename": "README.md",
+  "description": "Node-Cryptonote-Util ====================",
+  "bugs": {
+    "url": "https://github.com/LucasJones/node-cryptonote-util/issues"
+  },
+  "_id": "cryptonote-util@0.0.1",
+  "dist": {
+    "shasum": "7a6ec6c0bdc05ca88b8d336e22bac338f379c89b"
+  },
+  "_resolved": "git://github.com/servc4/node-cryptonote-util.git#1138e27ea30fadad20f589d59f430ec4c3968a09",
+  "_from": "git://github.com/servc4/node-cryptonote-util.git"
+}
